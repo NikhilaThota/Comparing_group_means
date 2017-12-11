@@ -1,0 +1,1 @@
+This notebook explores the mean body temperatures of males and females and compares these means. Hypothesis testing, t-test and z-test are used to determine the threshold/ interval of normal temperatures in male and females.
